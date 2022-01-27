@@ -1,0 +1,19 @@
+*{
+    margin-top: 50px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.bulb_btn{
+    width: 100px;
+    height: 50px; ;
+    background: tomato;
+    color: darkblue;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 0;
+}
